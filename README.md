@@ -65,10 +65,3 @@ If a server fails to start, verify that Java 21 or newer is selected
 Check the console output for detailed error messages
 
 Ensure the server jar is located directly inside the server folder
-
-
-MIT License
-
-Author
-
-Ezekian Nichols
