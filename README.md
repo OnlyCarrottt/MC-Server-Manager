@@ -4,7 +4,7 @@ A simple Windows application to manage multiple Minecraft servers from one place
 
 MC Server Manager automatically detects server folders, lets you configure Java and RAM, and provides start, stop, and restart controls with a live console.
 
-# Features
+### Features
 
 Automatically detects servers in a folder
 
@@ -20,7 +20,7 @@ Clean and simple interface
 
 No command line required
 
-# System Requirements
+### System Requirements
 
 Windows 10 or Windows 11
 
@@ -30,7 +30,7 @@ Minecraft server jar (Paper, Spigot, etc.)
 
 Minecraft 1.21 and newer require Java 21 or higher.
 
-# Installation
+### Installation
 
 Download the latest setup executable from the Releases page
 
@@ -40,7 +40,7 @@ Launch MC Server Manager
 
 Windows may show a SmartScreen warning. Click “More info” and then “Run anyway”.
 
-# Adding Servers
+### Adding Servers
 
 After installation, a servers folder will be created next to the application.
 
@@ -48,7 +48,7 @@ Place each server in its own folder
 
 Each subfolder is treated as a separate server.
 
-# Running a Server
+### Running a Server
 
 Select a server from the list
 
@@ -58,7 +58,7 @@ Click Start
 
 Console output and commands can be accessed from the console panel.
 
-# Troubleshooting
+### Troubleshooting
 
 If a server fails to start, verify that Java 21 or newer is selected
 
